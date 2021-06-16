@@ -1,0 +1,690 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-06-16">
+    <creator>NetworkX 2.5.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="assembling-machine-1" label="assembling-machine-1" />
+      <node id="iron-plate" label="iron-plate" />
+      <node id="iron-gear-wheel" label="iron-gear-wheel" />
+      <node id="electronic-circuit" label="electronic-circuit" />
+      <node id="automation-science-pack" label="automation-science-pack" />
+      <node id="copper-plate" label="copper-plate" />
+      <node id="firearm-magazine" label="firearm-magazine" />
+      <node id="piercing-rounds-magazine" label="piercing-rounds-magazine" />
+      <node id="steel-plate" label="steel-plate" />
+      <node id="uranium-rounds-magazine" label="uranium-rounds-magazine" />
+      <node id="uranium-238" label="uranium-238" />
+      <node id="beacon" label="beacon" />
+      <node id="copper-cable" label="copper-cable" />
+      <node id="advanced-circuit" label="advanced-circuit" />
+      <node id="solar-panel-equipment" label="solar-panel-equipment" />
+      <node id="solar-panel" label="solar-panel" />
+      <node id="fusion-reactor-equipment" label="fusion-reactor-equipment" />
+      <node id="processing-unit" label="processing-unit" />
+      <node id="low-density-structure" label="low-density-structure" />
+      <node id="medium-electric-pole" label="medium-electric-pole" />
+      <node id="iron-stick" label="iron-stick" />
+      <node id="big-electric-pole" label="big-electric-pole" />
+      <node id="substation" label="substation" />
+      <node id="sulfuric-acid" label="sulfuric-acid" />
+      <node id="sulfur" label="sulfur" />
+      <node id="water" label="water" />
+      <node id="grenade" label="grenade" />
+      <node id="coal" label="coal" />
+      <node id="cluster-grenade" label="cluster-grenade" />
+      <node id="explosives" label="explosives" />
+      <node id="electric-mining-drill" label="electric-mining-drill" />
+      <node id="steel-chest" label="steel-chest" />
+      <node id="small-lamp" label="small-lamp" />
+      <node id="basic-oil-processing" label="basic-oil-processing" />
+      <node id="crude-oil" label="crude-oil" />
+      <node id="advanced-oil-processing" label="advanced-oil-processing" />
+      <node id="coal-liquefaction" label="coal-liquefaction" />
+      <node id="heavy-oil" label="heavy-oil" />
+      <node id="steam" label="steam" />
+      <node id="pipe" label="pipe" />
+      <node id="pipe-to-ground" label="pipe-to-ground" />
+      <node id="logistic-robot" label="logistic-robot" />
+      <node id="flying-robot-frame" label="flying-robot-frame" />
+      <node id="construction-robot" label="construction-robot" />
+      <node id="energy-shield-equipment" label="energy-shield-equipment" />
+      <node id="energy-shield-mk2-equipment" label="energy-shield-mk2-equipment" />
+      <node id="speed-module" label="speed-module" />
+      <node id="speed-module-2" label="speed-module-2" />
+      <node id="speed-module-3" label="speed-module-3" />
+      <node id="stone-brick" label="stone-brick" />
+      <node id="stone" label="stone" />
+      <node id="stone-furnace" label="stone-furnace" />
+      <node id="stone-wall" label="stone-wall" />
+      <node id="rail" label="rail" />
+      <node id="train-stop" label="train-stop" />
+      <node id="rail-signal" label="rail-signal" />
+      <node id="rail-chain-signal" label="rail-chain-signal" />
+      <node id="locomotive" label="locomotive" />
+      <node id="engine-unit" label="engine-unit" />
+      <node id="cargo-wagon" label="cargo-wagon" />
+      <node id="fluid-wagon" label="fluid-wagon" />
+      <node id="storage-tank" label="storage-tank" />
+      <node id="artillery-wagon" label="artillery-wagon" />
+      <node id="transport-belt" label="transport-belt" />
+      <node id="fast-transport-belt" label="fast-transport-belt" />
+      <node id="express-transport-belt" label="express-transport-belt" />
+      <node id="lubricant" label="lubricant" />
+      <node id="gate" label="gate" />
+      <node id="personal-laser-defense-equipment" label="personal-laser-defense-equipment" />
+      <node id="laser-turret" label="laser-turret" />
+      <node id="discharge-defense-equipment" label="discharge-defense-equipment" />
+      <node id="discharge-defense-remote" label="discharge-defense-remote" />
+      <node id="assembling-machine-2" label="assembling-machine-2" />
+      <node id="battery-equipment" label="battery-equipment" />
+      <node id="battery" label="battery" />
+      <node id="battery-mk2-equipment" label="battery-mk2-equipment" />
+      <node id="concrete" label="concrete" />
+      <node id="iron-ore" label="iron-ore" />
+      <node id="hazard-concrete" label="hazard-concrete" />
+      <node id="refined-concrete" label="refined-concrete" />
+      <node id="refined-hazard-concrete" label="refined-hazard-concrete" />
+      <node id="heavy-oil-cracking" label="heavy-oil-cracking" />
+      <node id="light-oil-cracking" label="light-oil-cracking" />
+      <node id="light-oil" label="light-oil" />
+      <node id="solid-fuel-from-light-oil" label="solid-fuel-from-light-oil" />
+      <node id="solid-fuel-from-petroleum-gas" label="solid-fuel-from-petroleum-gas" />
+      <node id="petroleum-gas" label="petroleum-gas" />
+      <node id="solid-fuel-from-heavy-oil" label="solid-fuel-from-heavy-oil" />
+      <node id="offshore-pump" label="offshore-pump" />
+      <node id="pumpjack" label="pumpjack" />
+      <node id="inserter" label="inserter" />
+      <node id="logistic-science-pack" label="logistic-science-pack" />
+      <node id="car" label="car" />
+      <node id="tank" label="tank" />
+      <node id="spidertron" label="spidertron" />
+      <node id="raw-fish" label="raw-fish" />
+      <node id="rocket-control-unit" label="rocket-control-unit" />
+      <node id="effectivity-module-3" label="effectivity-module-3" />
+      <node id="rocket-launcher" label="rocket-launcher" />
+      <node id="exoskeleton-equipment" label="exoskeleton-equipment" />
+      <node id="radar" label="radar" />
+      <node id="spidertron-remote" label="spidertron-remote" />
+      <node id="pump" label="pump" />
+      <node id="poison-capsule" label="poison-capsule" />
+      <node id="repair-pack" label="repair-pack" />
+      <node id="combat-shotgun" label="combat-shotgun" />
+      <node id="wood" label="wood" />
+      <node id="piercing-shotgun-shell" label="piercing-shotgun-shell" />
+      <node id="shotgun-shell" label="shotgun-shell" />
+      <node id="boiler" label="boiler" />
+      <node id="steam-engine" label="steam-engine" />
+      <node id="steel-furnace" label="steel-furnace" />
+      <node id="logistic-chest-active-provider" label="logistic-chest-active-provider" />
+      <node id="logistic-chest-passive-provider" label="logistic-chest-passive-provider" />
+      <node id="logistic-chest-storage" label="logistic-chest-storage" />
+      <node id="logistic-chest-buffer" label="logistic-chest-buffer" />
+      <node id="logistic-chest-requester" label="logistic-chest-requester" />
+      <node id="gun-turret" label="gun-turret" />
+      <node id="flamethrower-turret" label="flamethrower-turret" />
+      <node id="artillery-turret" label="artillery-turret" />
+      <node id="artillery-targeting-remote" label="artillery-targeting-remote" />
+      <node id="underground-belt" label="underground-belt" />
+      <node id="fast-underground-belt" label="fast-underground-belt" />
+      <node id="express-underground-belt" label="express-underground-belt" />
+      <node id="red-wire" label="red-wire" />
+      <node id="green-wire" label="green-wire" />
+      <node id="assembling-machine-3" label="assembling-machine-3" />
+      <node id="belt-immunity-equipment" label="belt-immunity-equipment" />
+      <node id="arithmetic-combinator" label="arithmetic-combinator" />
+      <node id="decider-combinator" label="decider-combinator" />
+      <node id="constant-combinator" label="constant-combinator" />
+      <node id="copper-ore" label="copper-ore" />
+      <node id="effectivity-module" label="effectivity-module" />
+      <node id="effectivity-module-2" label="effectivity-module-2" />
+      <node id="electric-furnace" label="electric-furnace" />
+      <node id="landfill" label="landfill" />
+      <node id="long-handed-inserter" label="long-handed-inserter" />
+      <node id="military-science-pack" label="military-science-pack" />
+      <node id="productivity-module" label="productivity-module" />
+      <node id="productivity-module-2" label="productivity-module-2" />
+      <node id="productivity-module-3" label="productivity-module-3" />
+      <node id="roboport" label="roboport" />
+      <node id="slowdown-capsule" label="slowdown-capsule" />
+      <node id="splitter" label="splitter" />
+      <node id="fast-splitter" label="fast-splitter" />
+      <node id="express-splitter" label="express-splitter" />
+      <node id="cannon-shell" label="cannon-shell" />
+      <node id="plastic-bar" label="plastic-bar" />
+      <node id="explosive-cannon-shell" label="explosive-cannon-shell" />
+      <node id="uranium-cannon-shell" label="uranium-cannon-shell" />
+      <node id="chemical-science-pack" label="chemical-science-pack" />
+      <node id="cliff-explosives" label="cliff-explosives" />
+      <node id="empty-barrel" label="empty-barrel" />
+      <node id="defender-capsule" label="defender-capsule" />
+      <node id="electric-engine-unit" label="electric-engine-unit" />
+      <node id="explosive-uranium-cannon-shell" label="explosive-uranium-cannon-shell" />
+      <node id="artillery-shell" label="artillery-shell" />
+      <node id="fast-inserter" label="fast-inserter" />
+      <node id="loader" label="loader" />
+      <node id="fast-loader" label="fast-loader" />
+      <node id="express-loader" label="express-loader" />
+      <node id="power-switch" label="power-switch" />
+      <node id="programmable-speaker" label="programmable-speaker" />
+      <node id="oil-refinery" label="oil-refinery" />
+      <node id="rocket" label="rocket" />
+      <node id="explosive-rocket" label="explosive-rocket" />
+      <node id="atomic-bomb" label="atomic-bomb" />
+      <node id="uranium-235" label="uranium-235" />
+      <node id="accumulator" label="accumulator" />
+      <node id="chemical-plant" label="chemical-plant" />
+      <node id="distractor-capsule" label="distractor-capsule" />
+      <node id="filter-inserter" label="filter-inserter" />
+      <node id="flamethrower" label="flamethrower" />
+      <node id="flamethrower-ammo" label="flamethrower-ammo" />
+      <node id="production-science-pack" label="production-science-pack" />
+      <node id="personal-roboport-equipment" label="personal-roboport-equipment" />
+      <node id="personal-roboport-mk2-equipment" label="personal-roboport-mk2-equipment" />
+      <node id="rocket-silo" label="rocket-silo" />
+      <node id="destroyer-capsule" label="destroyer-capsule" />
+      <node id="land-mine" label="land-mine" />
+      <node id="night-vision-equipment" label="night-vision-equipment" />
+      <node id="nuclear-reactor" label="nuclear-reactor" />
+      <node id="heat-pipe" label="heat-pipe" />
+      <node id="heat-exchanger" label="heat-exchanger" />
+      <node id="steam-turbine" label="steam-turbine" />
+      <node id="stack-inserter" label="stack-inserter" />
+      <node id="utility-science-pack" label="utility-science-pack" />
+      <node id="centrifuge" label="centrifuge" />
+      <node id="lab" label="lab" />
+      <node id="stack-filter-inserter" label="stack-filter-inserter" />
+      <node id="uranium-processing" label="uranium-processing" />
+      <node id="uranium-ore" label="uranium-ore" />
+      <node id="satellite" label="satellite" />
+      <node id="rocket-fuel" label="rocket-fuel" />
+      <node id="solid-fuel" label="solid-fuel" />
+      <node id="rocket-part" label="rocket-part" />
+      <node id="nuclear-fuel" label="nuclear-fuel" />
+      <node id="uranium-fuel-cell" label="uranium-fuel-cell" />
+      <node id="nuclear-fuel-reprocessing" label="nuclear-fuel-reprocessing" />
+      <node id="used-up-uranium-fuel-cell" label="used-up-uranium-fuel-cell" />
+      <node id="kovarex-enrichment-process" label="kovarex-enrichment-process" />
+    </nodes>
+    <edges>
+      <edge source="assembling-machine-1" target="iron-plate" id="0" />
+      <edge source="assembling-machine-1" target="iron-gear-wheel" id="1" />
+      <edge source="assembling-machine-1" target="electronic-circuit" id="2" />
+      <edge source="iron-plate" target="iron-ore" id="3" />
+      <edge source="iron-gear-wheel" target="iron-plate" id="4" />
+      <edge source="electronic-circuit" target="iron-plate" id="5" />
+      <edge source="electronic-circuit" target="copper-cable" id="6" />
+      <edge source="automation-science-pack" target="copper-plate" id="7" />
+      <edge source="automation-science-pack" target="iron-gear-wheel" id="8" />
+      <edge source="copper-plate" target="copper-ore" id="9" />
+      <edge source="firearm-magazine" target="iron-plate" id="10" />
+      <edge source="piercing-rounds-magazine" target="copper-plate" id="11" />
+      <edge source="piercing-rounds-magazine" target="steel-plate" id="12" />
+      <edge source="piercing-rounds-magazine" target="firearm-magazine" id="13" />
+      <edge source="steel-plate" target="iron-plate" id="14" />
+      <edge source="uranium-rounds-magazine" target="uranium-238" id="15" />
+      <edge source="uranium-rounds-magazine" target="piercing-rounds-magazine" id="16" />
+      <edge source="beacon" target="steel-plate" id="17" />
+      <edge source="beacon" target="copper-cable" id="18" />
+      <edge source="beacon" target="electronic-circuit" id="19" />
+      <edge source="beacon" target="advanced-circuit" id="20" />
+      <edge source="copper-cable" target="copper-plate" id="21" />
+      <edge source="advanced-circuit" target="plastic-bar" id="22" />
+      <edge source="advanced-circuit" target="copper-cable" id="23" />
+      <edge source="advanced-circuit" target="electronic-circuit" id="24" />
+      <edge source="solar-panel-equipment" target="steel-plate" id="25" />
+      <edge source="solar-panel-equipment" target="advanced-circuit" id="26" />
+      <edge source="solar-panel-equipment" target="solar-panel" id="27" />
+      <edge source="solar-panel" target="copper-plate" id="28" />
+      <edge source="solar-panel" target="steel-plate" id="29" />
+      <edge source="solar-panel" target="electronic-circuit" id="30" />
+      <edge source="fusion-reactor-equipment" target="processing-unit" id="31" />
+      <edge source="fusion-reactor-equipment" target="low-density-structure" id="32" />
+      <edge source="processing-unit" target="electronic-circuit" id="33" />
+      <edge source="processing-unit" target="advanced-circuit" id="34" />
+      <edge source="processing-unit" target="sulfuric-acid" id="35" />
+      <edge source="low-density-structure" target="copper-plate" id="36" />
+      <edge source="low-density-structure" target="steel-plate" id="37" />
+      <edge source="low-density-structure" target="plastic-bar" id="38" />
+      <edge source="medium-electric-pole" target="copper-plate" id="39" />
+      <edge source="medium-electric-pole" target="steel-plate" id="40" />
+      <edge source="medium-electric-pole" target="iron-stick" id="41" />
+      <edge source="iron-stick" target="iron-plate" id="42" />
+      <edge source="big-electric-pole" target="copper-plate" id="43" />
+      <edge source="big-electric-pole" target="steel-plate" id="44" />
+      <edge source="big-electric-pole" target="iron-stick" id="45" />
+      <edge source="substation" target="copper-plate" id="46" />
+      <edge source="substation" target="steel-plate" id="47" />
+      <edge source="substation" target="advanced-circuit" id="48" />
+      <edge source="sulfuric-acid" target="iron-plate" id="49" />
+      <edge source="sulfuric-acid" target="sulfur" id="50" />
+      <edge source="sulfuric-acid" target="water" id="51" />
+      <edge source="sulfur" target="water" id="52" />
+      <edge source="sulfur" target="petroleum-gas" id="53" />
+      <edge source="grenade" target="coal" id="54" />
+      <edge source="grenade" target="iron-plate" id="55" />
+      <edge source="cluster-grenade" target="steel-plate" id="56" />
+      <edge source="cluster-grenade" target="explosives" id="57" />
+      <edge source="cluster-grenade" target="grenade" id="58" />
+      <edge source="explosives" target="coal" id="59" />
+      <edge source="explosives" target="sulfur" id="60" />
+      <edge source="explosives" target="water" id="61" />
+      <edge source="electric-mining-drill" target="iron-plate" id="62" />
+      <edge source="electric-mining-drill" target="iron-gear-wheel" id="63" />
+      <edge source="electric-mining-drill" target="electronic-circuit" id="64" />
+      <edge source="steel-chest" target="steel-plate" id="65" />
+      <edge source="small-lamp" target="iron-plate" id="66" />
+      <edge source="small-lamp" target="copper-cable" id="67" />
+      <edge source="small-lamp" target="electronic-circuit" id="68" />
+      <edge source="basic-oil-processing" target="crude-oil" id="69" />
+      <edge source="advanced-oil-processing" target="water" id="70" />
+      <edge source="advanced-oil-processing" target="crude-oil" id="71" />
+      <edge source="coal-liquefaction" target="coal" id="72" />
+      <edge source="coal-liquefaction" target="heavy-oil" id="73" />
+      <edge source="coal-liquefaction" target="steam" id="74" />
+      <edge source="pipe" target="iron-plate" id="75" />
+      <edge source="pipe-to-ground" target="iron-plate" id="76" />
+      <edge source="pipe-to-ground" target="pipe" id="77" />
+      <edge source="logistic-robot" target="advanced-circuit" id="78" />
+      <edge source="logistic-robot" target="flying-robot-frame" id="79" />
+      <edge source="flying-robot-frame" target="steel-plate" id="80" />
+      <edge source="flying-robot-frame" target="battery" id="81" />
+      <edge source="flying-robot-frame" target="electronic-circuit" id="82" />
+      <edge source="flying-robot-frame" target="electric-engine-unit" id="83" />
+      <edge source="construction-robot" target="electronic-circuit" id="84" />
+      <edge source="construction-robot" target="flying-robot-frame" id="85" />
+      <edge source="energy-shield-equipment" target="steel-plate" id="86" />
+      <edge source="energy-shield-equipment" target="advanced-circuit" id="87" />
+      <edge source="energy-shield-mk2-equipment" target="processing-unit" id="88" />
+      <edge source="energy-shield-mk2-equipment" target="low-density-structure" id="89" />
+      <edge source="energy-shield-mk2-equipment" target="energy-shield-equipment" id="90" />
+      <edge source="speed-module" target="electronic-circuit" id="91" />
+      <edge source="speed-module" target="advanced-circuit" id="92" />
+      <edge source="speed-module-2" target="advanced-circuit" id="93" />
+      <edge source="speed-module-2" target="processing-unit" id="94" />
+      <edge source="speed-module-2" target="speed-module" id="95" />
+      <edge source="speed-module-3" target="advanced-circuit" id="96" />
+      <edge source="speed-module-3" target="processing-unit" id="97" />
+      <edge source="speed-module-3" target="speed-module-2" id="98" />
+      <edge source="stone-brick" target="stone" id="99" />
+      <edge source="stone-furnace" target="stone" id="100" />
+      <edge source="stone-wall" target="stone-brick" id="101" />
+      <edge source="rail" target="stone" id="102" />
+      <edge source="rail" target="steel-plate" id="103" />
+      <edge source="rail" target="iron-stick" id="104" />
+      <edge source="train-stop" target="iron-plate" id="105" />
+      <edge source="train-stop" target="steel-plate" id="106" />
+      <edge source="train-stop" target="iron-stick" id="107" />
+      <edge source="train-stop" target="electronic-circuit" id="108" />
+      <edge source="rail-signal" target="iron-plate" id="109" />
+      <edge source="rail-signal" target="electronic-circuit" id="110" />
+      <edge source="rail-chain-signal" target="iron-plate" id="111" />
+      <edge source="rail-chain-signal" target="electronic-circuit" id="112" />
+      <edge source="locomotive" target="steel-plate" id="113" />
+      <edge source="locomotive" target="electronic-circuit" id="114" />
+      <edge source="locomotive" target="engine-unit" id="115" />
+      <edge source="engine-unit" target="steel-plate" id="116" />
+      <edge source="engine-unit" target="iron-gear-wheel" id="117" />
+      <edge source="engine-unit" target="pipe" id="118" />
+      <edge source="cargo-wagon" target="iron-plate" id="119" />
+      <edge source="cargo-wagon" target="steel-plate" id="120" />
+      <edge source="cargo-wagon" target="iron-gear-wheel" id="121" />
+      <edge source="fluid-wagon" target="steel-plate" id="122" />
+      <edge source="fluid-wagon" target="iron-gear-wheel" id="123" />
+      <edge source="fluid-wagon" target="storage-tank" id="124" />
+      <edge source="fluid-wagon" target="pipe" id="125" />
+      <edge source="storage-tank" target="iron-plate" id="126" />
+      <edge source="storage-tank" target="steel-plate" id="127" />
+      <edge source="artillery-wagon" target="steel-plate" id="128" />
+      <edge source="artillery-wagon" target="iron-gear-wheel" id="129" />
+      <edge source="artillery-wagon" target="advanced-circuit" id="130" />
+      <edge source="artillery-wagon" target="engine-unit" id="131" />
+      <edge source="artillery-wagon" target="pipe" id="132" />
+      <edge source="transport-belt" target="iron-plate" id="133" />
+      <edge source="transport-belt" target="iron-gear-wheel" id="134" />
+      <edge source="fast-transport-belt" target="iron-gear-wheel" id="135" />
+      <edge source="fast-transport-belt" target="transport-belt" id="136" />
+      <edge source="express-transport-belt" target="iron-gear-wheel" id="137" />
+      <edge source="express-transport-belt" target="fast-transport-belt" id="138" />
+      <edge source="express-transport-belt" target="lubricant" id="139" />
+      <edge source="lubricant" target="heavy-oil" id="140" />
+      <edge source="gate" target="steel-plate" id="141" />
+      <edge source="gate" target="electronic-circuit" id="142" />
+      <edge source="gate" target="stone-wall" id="143" />
+      <edge source="personal-laser-defense-equipment" target="processing-unit" id="144" />
+      <edge source="personal-laser-defense-equipment" target="low-density-structure" id="145" />
+      <edge source="personal-laser-defense-equipment" target="laser-turret" id="146" />
+      <edge source="laser-turret" target="steel-plate" id="147" />
+      <edge source="laser-turret" target="battery" id="148" />
+      <edge source="laser-turret" target="electronic-circuit" id="149" />
+      <edge source="discharge-defense-equipment" target="steel-plate" id="150" />
+      <edge source="discharge-defense-equipment" target="processing-unit" id="151" />
+      <edge source="discharge-defense-equipment" target="laser-turret" id="152" />
+      <edge source="discharge-defense-remote" target="electronic-circuit" id="153" />
+      <edge source="assembling-machine-2" target="steel-plate" id="154" />
+      <edge source="assembling-machine-2" target="iron-gear-wheel" id="155" />
+      <edge source="assembling-machine-2" target="electronic-circuit" id="156" />
+      <edge source="assembling-machine-2" target="assembling-machine-1" id="157" />
+      <edge source="battery-equipment" target="steel-plate" id="158" />
+      <edge source="battery-equipment" target="battery" id="159" />
+      <edge source="battery" target="iron-plate" id="160" />
+      <edge source="battery" target="copper-plate" id="161" />
+      <edge source="battery" target="sulfuric-acid" id="162" />
+      <edge source="battery-mk2-equipment" target="processing-unit" id="163" />
+      <edge source="battery-mk2-equipment" target="low-density-structure" id="164" />
+      <edge source="battery-mk2-equipment" target="battery-equipment" id="165" />
+      <edge source="concrete" target="iron-ore" id="166" />
+      <edge source="concrete" target="stone-brick" id="167" />
+      <edge source="concrete" target="water" id="168" />
+      <edge source="hazard-concrete" target="concrete" id="169" />
+      <edge source="refined-concrete" target="steel-plate" id="170" />
+      <edge source="refined-concrete" target="iron-stick" id="171" />
+      <edge source="refined-concrete" target="concrete" id="172" />
+      <edge source="refined-concrete" target="water" id="173" />
+      <edge source="refined-hazard-concrete" target="refined-concrete" id="174" />
+      <edge source="heavy-oil-cracking" target="water" id="175" />
+      <edge source="heavy-oil-cracking" target="heavy-oil" id="176" />
+      <edge source="light-oil-cracking" target="water" id="177" />
+      <edge source="light-oil-cracking" target="light-oil" id="178" />
+      <edge source="solid-fuel-from-light-oil" target="light-oil" id="179" />
+      <edge source="solid-fuel-from-petroleum-gas" target="petroleum-gas" id="180" />
+      <edge source="solid-fuel-from-heavy-oil" target="heavy-oil" id="181" />
+      <edge source="offshore-pump" target="iron-gear-wheel" id="182" />
+      <edge source="offshore-pump" target="electronic-circuit" id="183" />
+      <edge source="offshore-pump" target="pipe" id="184" />
+      <edge source="pumpjack" target="steel-plate" id="185" />
+      <edge source="pumpjack" target="iron-gear-wheel" id="186" />
+      <edge source="pumpjack" target="electronic-circuit" id="187" />
+      <edge source="pumpjack" target="pipe" id="188" />
+      <edge source="inserter" target="iron-plate" id="189" />
+      <edge source="inserter" target="iron-gear-wheel" id="190" />
+      <edge source="inserter" target="electronic-circuit" id="191" />
+      <edge source="logistic-science-pack" target="transport-belt" id="192" />
+      <edge source="logistic-science-pack" target="inserter" id="193" />
+      <edge source="car" target="iron-plate" id="194" />
+      <edge source="car" target="steel-plate" id="195" />
+      <edge source="car" target="engine-unit" id="196" />
+      <edge source="tank" target="steel-plate" id="197" />
+      <edge source="tank" target="iron-gear-wheel" id="198" />
+      <edge source="tank" target="advanced-circuit" id="199" />
+      <edge source="tank" target="engine-unit" id="200" />
+      <edge source="spidertron" target="raw-fish" id="201" />
+      <edge source="spidertron" target="rocket-control-unit" id="202" />
+      <edge source="spidertron" target="low-density-structure" id="203" />
+      <edge source="spidertron" target="effectivity-module-3" id="204" />
+      <edge source="spidertron" target="rocket-launcher" id="205" />
+      <edge source="spidertron" target="fusion-reactor-equipment" id="206" />
+      <edge source="spidertron" target="exoskeleton-equipment" id="207" />
+      <edge source="spidertron" target="radar" id="208" />
+      <edge source="rocket-control-unit" target="processing-unit" id="209" />
+      <edge source="rocket-control-unit" target="speed-module" id="210" />
+      <edge source="effectivity-module-3" target="advanced-circuit" id="211" />
+      <edge source="effectivity-module-3" target="processing-unit" id="212" />
+      <edge source="effectivity-module-3" target="effectivity-module-2" id="213" />
+      <edge source="rocket-launcher" target="iron-plate" id="214" />
+      <edge source="rocket-launcher" target="iron-gear-wheel" id="215" />
+      <edge source="rocket-launcher" target="electronic-circuit" id="216" />
+      <edge source="exoskeleton-equipment" target="steel-plate" id="217" />
+      <edge source="exoskeleton-equipment" target="processing-unit" id="218" />
+      <edge source="exoskeleton-equipment" target="electric-engine-unit" id="219" />
+      <edge source="radar" target="iron-plate" id="220" />
+      <edge source="radar" target="iron-gear-wheel" id="221" />
+      <edge source="radar" target="electronic-circuit" id="222" />
+      <edge source="spidertron-remote" target="rocket-control-unit" id="223" />
+      <edge source="spidertron-remote" target="radar" id="224" />
+      <edge source="pump" target="steel-plate" id="225" />
+      <edge source="pump" target="engine-unit" id="226" />
+      <edge source="pump" target="pipe" id="227" />
+      <edge source="poison-capsule" target="coal" id="228" />
+      <edge source="poison-capsule" target="steel-plate" id="229" />
+      <edge source="poison-capsule" target="electronic-circuit" id="230" />
+      <edge source="repair-pack" target="iron-gear-wheel" id="231" />
+      <edge source="repair-pack" target="electronic-circuit" id="232" />
+      <edge source="combat-shotgun" target="wood" id="233" />
+      <edge source="combat-shotgun" target="copper-plate" id="234" />
+      <edge source="combat-shotgun" target="steel-plate" id="235" />
+      <edge source="combat-shotgun" target="iron-gear-wheel" id="236" />
+      <edge source="piercing-shotgun-shell" target="copper-plate" id="237" />
+      <edge source="piercing-shotgun-shell" target="steel-plate" id="238" />
+      <edge source="piercing-shotgun-shell" target="shotgun-shell" id="239" />
+      <edge source="boiler" target="pipe" id="240" />
+      <edge source="boiler" target="stone-furnace" id="241" />
+      <edge source="steam-engine" target="iron-plate" id="242" />
+      <edge source="steam-engine" target="iron-gear-wheel" id="243" />
+      <edge source="steam-engine" target="pipe" id="244" />
+      <edge source="steel-furnace" target="steel-plate" id="245" />
+      <edge source="steel-furnace" target="stone-brick" id="246" />
+      <edge source="logistic-chest-active-provider" target="electronic-circuit" id="247" />
+      <edge source="logistic-chest-active-provider" target="advanced-circuit" id="248" />
+      <edge source="logistic-chest-active-provider" target="steel-chest" id="249" />
+      <edge source="logistic-chest-passive-provider" target="electronic-circuit" id="250" />
+      <edge source="logistic-chest-passive-provider" target="advanced-circuit" id="251" />
+      <edge source="logistic-chest-passive-provider" target="steel-chest" id="252" />
+      <edge source="logistic-chest-storage" target="electronic-circuit" id="253" />
+      <edge source="logistic-chest-storage" target="advanced-circuit" id="254" />
+      <edge source="logistic-chest-storage" target="steel-chest" id="255" />
+      <edge source="logistic-chest-buffer" target="electronic-circuit" id="256" />
+      <edge source="logistic-chest-buffer" target="advanced-circuit" id="257" />
+      <edge source="logistic-chest-buffer" target="steel-chest" id="258" />
+      <edge source="logistic-chest-requester" target="electronic-circuit" id="259" />
+      <edge source="logistic-chest-requester" target="advanced-circuit" id="260" />
+      <edge source="logistic-chest-requester" target="steel-chest" id="261" />
+      <edge source="gun-turret" target="iron-plate" id="262" />
+      <edge source="gun-turret" target="copper-plate" id="263" />
+      <edge source="gun-turret" target="iron-gear-wheel" id="264" />
+      <edge source="flamethrower-turret" target="steel-plate" id="265" />
+      <edge source="flamethrower-turret" target="iron-gear-wheel" id="266" />
+      <edge source="flamethrower-turret" target="engine-unit" id="267" />
+      <edge source="flamethrower-turret" target="pipe" id="268" />
+      <edge source="artillery-turret" target="steel-plate" id="269" />
+      <edge source="artillery-turret" target="iron-gear-wheel" id="270" />
+      <edge source="artillery-turret" target="advanced-circuit" id="271" />
+      <edge source="artillery-turret" target="concrete" id="272" />
+      <edge source="artillery-targeting-remote" target="processing-unit" id="273" />
+      <edge source="artillery-targeting-remote" target="radar" id="274" />
+      <edge source="underground-belt" target="iron-plate" id="275" />
+      <edge source="underground-belt" target="transport-belt" id="276" />
+      <edge source="fast-underground-belt" target="iron-gear-wheel" id="277" />
+      <edge source="fast-underground-belt" target="underground-belt" id="278" />
+      <edge source="express-underground-belt" target="iron-gear-wheel" id="279" />
+      <edge source="express-underground-belt" target="fast-underground-belt" id="280" />
+      <edge source="express-underground-belt" target="lubricant" id="281" />
+      <edge source="red-wire" target="copper-cable" id="282" />
+      <edge source="red-wire" target="electronic-circuit" id="283" />
+      <edge source="green-wire" target="copper-cable" id="284" />
+      <edge source="green-wire" target="electronic-circuit" id="285" />
+      <edge source="assembling-machine-3" target="assembling-machine-2" id="286" />
+      <edge source="assembling-machine-3" target="speed-module" id="287" />
+      <edge source="belt-immunity-equipment" target="steel-plate" id="288" />
+      <edge source="belt-immunity-equipment" target="advanced-circuit" id="289" />
+      <edge source="arithmetic-combinator" target="copper-cable" id="290" />
+      <edge source="arithmetic-combinator" target="electronic-circuit" id="291" />
+      <edge source="decider-combinator" target="copper-cable" id="292" />
+      <edge source="decider-combinator" target="electronic-circuit" id="293" />
+      <edge source="constant-combinator" target="copper-cable" id="294" />
+      <edge source="constant-combinator" target="electronic-circuit" id="295" />
+      <edge source="effectivity-module" target="electronic-circuit" id="296" />
+      <edge source="effectivity-module" target="advanced-circuit" id="297" />
+      <edge source="effectivity-module-2" target="advanced-circuit" id="298" />
+      <edge source="effectivity-module-2" target="processing-unit" id="299" />
+      <edge source="effectivity-module-2" target="effectivity-module" id="300" />
+      <edge source="electric-furnace" target="steel-plate" id="301" />
+      <edge source="electric-furnace" target="advanced-circuit" id="302" />
+      <edge source="electric-furnace" target="stone-brick" id="303" />
+      <edge source="landfill" target="stone" id="304" />
+      <edge source="long-handed-inserter" target="iron-plate" id="305" />
+      <edge source="long-handed-inserter" target="iron-gear-wheel" id="306" />
+      <edge source="long-handed-inserter" target="inserter" id="307" />
+      <edge source="military-science-pack" target="piercing-rounds-magazine" id="308" />
+      <edge source="military-science-pack" target="grenade" id="309" />
+      <edge source="military-science-pack" target="stone-wall" id="310" />
+      <edge source="productivity-module" target="electronic-circuit" id="311" />
+      <edge source="productivity-module" target="advanced-circuit" id="312" />
+      <edge source="productivity-module-2" target="advanced-circuit" id="313" />
+      <edge source="productivity-module-2" target="processing-unit" id="314" />
+      <edge source="productivity-module-2" target="productivity-module" id="315" />
+      <edge source="productivity-module-3" target="advanced-circuit" id="316" />
+      <edge source="productivity-module-3" target="processing-unit" id="317" />
+      <edge source="productivity-module-3" target="productivity-module-2" id="318" />
+      <edge source="roboport" target="steel-plate" id="319" />
+      <edge source="roboport" target="iron-gear-wheel" id="320" />
+      <edge source="roboport" target="advanced-circuit" id="321" />
+      <edge source="slowdown-capsule" target="coal" id="322" />
+      <edge source="slowdown-capsule" target="steel-plate" id="323" />
+      <edge source="slowdown-capsule" target="electronic-circuit" id="324" />
+      <edge source="splitter" target="iron-plate" id="325" />
+      <edge source="splitter" target="electronic-circuit" id="326" />
+      <edge source="splitter" target="transport-belt" id="327" />
+      <edge source="fast-splitter" target="iron-gear-wheel" id="328" />
+      <edge source="fast-splitter" target="electronic-circuit" id="329" />
+      <edge source="fast-splitter" target="splitter" id="330" />
+      <edge source="express-splitter" target="iron-gear-wheel" id="331" />
+      <edge source="express-splitter" target="advanced-circuit" id="332" />
+      <edge source="express-splitter" target="fast-splitter" id="333" />
+      <edge source="express-splitter" target="lubricant" id="334" />
+      <edge source="cannon-shell" target="steel-plate" id="335" />
+      <edge source="cannon-shell" target="plastic-bar" id="336" />
+      <edge source="cannon-shell" target="explosives" id="337" />
+      <edge source="plastic-bar" target="coal" id="338" />
+      <edge source="plastic-bar" target="petroleum-gas" id="339" />
+      <edge source="explosive-cannon-shell" target="steel-plate" id="340" />
+      <edge source="explosive-cannon-shell" target="plastic-bar" id="341" />
+      <edge source="explosive-cannon-shell" target="explosives" id="342" />
+      <edge source="uranium-cannon-shell" target="uranium-238" id="343" />
+      <edge source="uranium-cannon-shell" target="cannon-shell" id="344" />
+      <edge source="chemical-science-pack" target="sulfur" id="345" />
+      <edge source="chemical-science-pack" target="advanced-circuit" id="346" />
+      <edge source="chemical-science-pack" target="engine-unit" id="347" />
+      <edge source="cliff-explosives" target="explosives" id="348" />
+      <edge source="cliff-explosives" target="empty-barrel" id="349" />
+      <edge source="cliff-explosives" target="grenade" id="350" />
+      <edge source="defender-capsule" target="iron-gear-wheel" id="351" />
+      <edge source="defender-capsule" target="electronic-circuit" id="352" />
+      <edge source="defender-capsule" target="piercing-rounds-magazine" id="353" />
+      <edge source="electric-engine-unit" target="electronic-circuit" id="354" />
+      <edge source="electric-engine-unit" target="engine-unit" id="355" />
+      <edge source="electric-engine-unit" target="lubricant" id="356" />
+      <edge source="explosive-uranium-cannon-shell" target="uranium-238" id="357" />
+      <edge source="explosive-uranium-cannon-shell" target="explosive-cannon-shell" id="358" />
+      <edge source="artillery-shell" target="explosives" id="359" />
+      <edge source="artillery-shell" target="explosive-cannon-shell" id="360" />
+      <edge source="artillery-shell" target="radar" id="361" />
+      <edge source="fast-inserter" target="iron-plate" id="362" />
+      <edge source="fast-inserter" target="electronic-circuit" id="363" />
+      <edge source="fast-inserter" target="inserter" id="364" />
+      <edge source="loader" target="iron-plate" id="365" />
+      <edge source="loader" target="iron-gear-wheel" id="366" />
+      <edge source="loader" target="electronic-circuit" id="367" />
+      <edge source="loader" target="transport-belt" id="368" />
+      <edge source="loader" target="inserter" id="369" />
+      <edge source="fast-loader" target="fast-transport-belt" id="370" />
+      <edge source="fast-loader" target="loader" id="371" />
+      <edge source="express-loader" target="express-transport-belt" id="372" />
+      <edge source="express-loader" target="fast-loader" id="373" />
+      <edge source="power-switch" target="iron-plate" id="374" />
+      <edge source="power-switch" target="copper-cable" id="375" />
+      <edge source="power-switch" target="electronic-circuit" id="376" />
+      <edge source="programmable-speaker" target="iron-plate" id="377" />
+      <edge source="programmable-speaker" target="copper-cable" id="378" />
+      <edge source="programmable-speaker" target="iron-stick" id="379" />
+      <edge source="programmable-speaker" target="electronic-circuit" id="380" />
+      <edge source="oil-refinery" target="steel-plate" id="381" />
+      <edge source="oil-refinery" target="iron-gear-wheel" id="382" />
+      <edge source="oil-refinery" target="electronic-circuit" id="383" />
+      <edge source="oil-refinery" target="pipe" id="384" />
+      <edge source="oil-refinery" target="stone-brick" id="385" />
+      <edge source="rocket" target="iron-plate" id="386" />
+      <edge source="rocket" target="explosives" id="387" />
+      <edge source="rocket" target="electronic-circuit" id="388" />
+      <edge source="explosive-rocket" target="explosives" id="389" />
+      <edge source="explosive-rocket" target="rocket" id="390" />
+      <edge source="atomic-bomb" target="explosives" id="391" />
+      <edge source="atomic-bomb" target="rocket-control-unit" id="392" />
+      <edge source="atomic-bomb" target="uranium-235" id="393" />
+      <edge source="accumulator" target="iron-plate" id="394" />
+      <edge source="accumulator" target="battery" id="395" />
+      <edge source="chemical-plant" target="steel-plate" id="396" />
+      <edge source="chemical-plant" target="iron-gear-wheel" id="397" />
+      <edge source="chemical-plant" target="electronic-circuit" id="398" />
+      <edge source="chemical-plant" target="pipe" id="399" />
+      <edge source="distractor-capsule" target="advanced-circuit" id="400" />
+      <edge source="distractor-capsule" target="defender-capsule" id="401" />
+      <edge source="filter-inserter" target="electronic-circuit" id="402" />
+      <edge source="filter-inserter" target="fast-inserter" id="403" />
+      <edge source="flamethrower" target="steel-plate" id="404" />
+      <edge source="flamethrower" target="iron-gear-wheel" id="405" />
+      <edge source="flamethrower-ammo" target="steel-plate" id="406" />
+      <edge source="flamethrower-ammo" target="crude-oil" id="407" />
+      <edge source="production-science-pack" target="rail" id="408" />
+      <edge source="production-science-pack" target="electric-furnace" id="409" />
+      <edge source="production-science-pack" target="productivity-module" id="410" />
+      <edge source="personal-roboport-equipment" target="steel-plate" id="411" />
+      <edge source="personal-roboport-equipment" target="battery" id="412" />
+      <edge source="personal-roboport-equipment" target="iron-gear-wheel" id="413" />
+      <edge source="personal-roboport-equipment" target="advanced-circuit" id="414" />
+      <edge source="personal-roboport-mk2-equipment" target="processing-unit" id="415" />
+      <edge source="personal-roboport-mk2-equipment" target="low-density-structure" id="416" />
+      <edge source="personal-roboport-mk2-equipment" target="personal-roboport-equipment" id="417" />
+      <edge source="rocket-silo" target="steel-plate" id="418" />
+      <edge source="rocket-silo" target="processing-unit" id="419" />
+      <edge source="rocket-silo" target="electric-engine-unit" id="420" />
+      <edge source="rocket-silo" target="pipe" id="421" />
+      <edge source="rocket-silo" target="concrete" id="422" />
+      <edge source="destroyer-capsule" target="speed-module" id="423" />
+      <edge source="destroyer-capsule" target="distractor-capsule" id="424" />
+      <edge source="land-mine" target="steel-plate" id="425" />
+      <edge source="land-mine" target="explosives" id="426" />
+      <edge source="night-vision-equipment" target="steel-plate" id="427" />
+      <edge source="night-vision-equipment" target="advanced-circuit" id="428" />
+      <edge source="nuclear-reactor" target="copper-plate" id="429" />
+      <edge source="nuclear-reactor" target="steel-plate" id="430" />
+      <edge source="nuclear-reactor" target="advanced-circuit" id="431" />
+      <edge source="nuclear-reactor" target="concrete" id="432" />
+      <edge source="heat-pipe" target="copper-plate" id="433" />
+      <edge source="heat-pipe" target="steel-plate" id="434" />
+      <edge source="heat-exchanger" target="copper-plate" id="435" />
+      <edge source="heat-exchanger" target="steel-plate" id="436" />
+      <edge source="heat-exchanger" target="pipe" id="437" />
+      <edge source="steam-turbine" target="copper-plate" id="438" />
+      <edge source="steam-turbine" target="iron-gear-wheel" id="439" />
+      <edge source="steam-turbine" target="pipe" id="440" />
+      <edge source="stack-inserter" target="iron-gear-wheel" id="441" />
+      <edge source="stack-inserter" target="electronic-circuit" id="442" />
+      <edge source="stack-inserter" target="advanced-circuit" id="443" />
+      <edge source="stack-inserter" target="fast-inserter" id="444" />
+      <edge source="utility-science-pack" target="processing-unit" id="445" />
+      <edge source="utility-science-pack" target="flying-robot-frame" id="446" />
+      <edge source="utility-science-pack" target="low-density-structure" id="447" />
+      <edge source="centrifuge" target="steel-plate" id="448" />
+      <edge source="centrifuge" target="iron-gear-wheel" id="449" />
+      <edge source="centrifuge" target="advanced-circuit" id="450" />
+      <edge source="centrifuge" target="concrete" id="451" />
+      <edge source="lab" target="iron-gear-wheel" id="452" />
+      <edge source="lab" target="electronic-circuit" id="453" />
+      <edge source="lab" target="transport-belt" id="454" />
+      <edge source="stack-filter-inserter" target="electronic-circuit" id="455" />
+      <edge source="stack-filter-inserter" target="stack-inserter" id="456" />
+      <edge source="uranium-processing" target="uranium-ore" id="457" />
+      <edge source="satellite" target="processing-unit" id="458" />
+      <edge source="satellite" target="low-density-structure" id="459" />
+      <edge source="satellite" target="rocket-fuel" id="460" />
+      <edge source="satellite" target="solar-panel" id="461" />
+      <edge source="satellite" target="accumulator" id="462" />
+      <edge source="satellite" target="radar" id="463" />
+      <edge source="rocket-fuel" target="solid-fuel" id="464" />
+      <edge source="rocket-fuel" target="light-oil" id="465" />
+      <edge source="rocket-part" target="rocket-control-unit" id="466" />
+      <edge source="rocket-part" target="low-density-structure" id="467" />
+      <edge source="rocket-part" target="rocket-fuel" id="468" />
+      <edge source="nuclear-fuel" target="rocket-fuel" id="469" />
+      <edge source="nuclear-fuel" target="uranium-235" id="470" />
+      <edge source="uranium-fuel-cell" target="iron-plate" id="471" />
+      <edge source="uranium-fuel-cell" target="uranium-235" id="472" />
+      <edge source="uranium-fuel-cell" target="uranium-238" id="473" />
+      <edge source="nuclear-fuel-reprocessing" target="used-up-uranium-fuel-cell" id="474" />
+      <edge source="kovarex-enrichment-process" target="uranium-235" id="475" />
+      <edge source="kovarex-enrichment-process" target="uranium-238" id="476" />
+    </edges>
+  </graph>
+</gexf>
