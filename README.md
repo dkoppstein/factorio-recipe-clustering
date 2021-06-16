@@ -6,8 +6,8 @@ An attempt to cluster Factorio recipes with a heatmap and dendrogram.
 
 Requirements: 
 
-Python 3 environment with pandas and networkx
-For the heatmap, R with ComplexHeatmap
+* Python 3 environment with pandas and networkx
+* For the heatmap, R with ComplexHeatmap
 
 Step 1: Use the [Data Exporter to JSON mod](https://mods.factorio.com/mod/recipelister) to create a JSON file of all the recipes of the saved game. 
 
